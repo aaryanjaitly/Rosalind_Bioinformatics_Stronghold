@@ -1,3 +1,6 @@
+n = int(input())
+k = int(input())
+
 # # My recurrsion
 # def fib(n,k):
 #     if n == 0:
@@ -9,9 +12,6 @@
 #     else:
 #         return(fib(n-2,k)+fib(n-1,k))
 # print(fib(n,k))
-
-n = int(input())
-k = int(input())
 
 # My Iteration of my recurrsion
 def fib(n,k):
